@@ -532,4 +532,5 @@ Your **hook should be the journey**:
 That makes the repository feel **alive**, rather than like another copied ML portfolio.
 
 
-And if you eventually complete all 100, the most valuable section may actually be a **"My Evolution"** page showing how your reasoning changed from Case #1 → #100. That's much more compelling to recruiters than simply saying *"100 case studies completed."*
+And if you eventually complete all 100, the most valuable section may actually be a **"My Evolution"** page showing how your reasoning changed from
+Case #1 → #100. That's much more compelling to recruiters than simply saying *"100 case studies completed."*
