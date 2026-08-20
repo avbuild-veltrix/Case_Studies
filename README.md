@@ -1,6 +1,7 @@
 # 🧠 100 Case Studies — Engineering & Problem-Solving Laboratory
 
-> A 100-case journey to develop better problem-solving, systems thinking, ML engineering judgment, and real-world decision-making.
+> A 100-case journey to develop better problem-solving, systems thinking, ML engineering judgment, and
+> real-world decision-making.
 
 [![Case Studies](https://img.shields.io/badge/Case%20Studies-100-blue)]()
 [![Status](https://img.shields.io/badge/Status-In%20Progress-orange)]()
@@ -37,7 +38,9 @@ That's what this repository is designed to train.
 
 🎯 The Goal
 
-I am working through 100 real-world-inspired case studies, starting from beginner-level problems and gradually moving toward complex ML systems, distributed systems, product decisions, and large-scale engineering problems.
+I am working through 100 real-world-inspired case studies, starting from beginner-level
+problems and gradually moving toward complex ML systems, distributed systems, product decisions,
+and large-scale engineering problems.
 
 The goal isn't to memorize 100 solutions.
 
@@ -487,7 +490,8 @@ The real objective is to develop a habit:
 
 See a problem → break it down → form hypotheses → test them → learn → improve.
 
-Eventually, I want to be able to enter an unfamiliar technical problem and have a structured way to attack it.
+Eventually, I want to be able to enter an unfamiliar technical problem and have a
+structured way to attack it.
 
 📌 Current Status
 
@@ -526,11 +530,13 @@ Don't make the README a giant wall of technical terminology.
 Your **hook should be the journey**:
 
 
-> **"I don't know the answer. Here's how I tried to figure it out. Here's where I was wrong. Here's what the real world taught me."**
+> **"I don't know the answer. Here's how I tried to figure it out. Here's where I was wrong.
+Here's what the real world taught me."**
 
 
 That makes the repository feel **alive**, rather than like another copied ML portfolio.
 
 
-And if you eventually complete all 100, the most valuable section may actually be a **"My Evolution"** page showing how your reasoning changed from
-Case #1 → #100. That's much more compelling to recruiters than simply saying *"100 case studies completed."*
+And if you eventually complete all 100, the most valuable section may actually be a **"My Evolution"**
+page showing how your reasoning changed from Case #1 → #100. That's much more compelling to recruiters
+than simply saying *"100 case studies completed."*
